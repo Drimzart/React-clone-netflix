@@ -1,0 +1,14 @@
+.feature--vertical, 
+.feature--horizontal {
+  width: inherit;
+  height: inherit;
+ 
+}
+
+.feature--horizontal {
+  background: linear-gradient(to right, #171717 30%, transparent 70%);
+}
+
+.feature--vertical {
+  background: linear-gradient(to top, #171717 10%, transparent 90%);
+}
